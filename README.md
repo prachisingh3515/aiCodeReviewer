@@ -16,14 +16,14 @@
 ## 🧰 Tech Stack
 
 ### 🔹 Frontend
-- **React.js**
-- **Axios**
-- **Prism.js**
-- **React Markdown**
-- **React Simple Code Editor**
+- React.js
+- Axios
+- Prism.js
+- React Markdown
+- React Simple Code Editor
 
 ### 🔸 Backend
-- **Node.js**
-- **Express.js**
-- **@google/generative-ai** (Gemini Flash 2.0)
-- **Cors**
+- Node.js
+- Express.js
+- @google/generative-ai
+- Cors
